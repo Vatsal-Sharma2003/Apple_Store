@@ -12,8 +12,7 @@ About This Course:
 -   🐞 Error Handling
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
-
+-   
 ### Setup .env file
 
 ```shell
@@ -33,4 +32,3 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
